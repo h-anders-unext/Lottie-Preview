@@ -6,5 +6,5 @@ target 'Lottie-Preview' do
   use_frameworks!
 
   # Pods for Lottie-Preview
-  pod 'lottie-ios', :git => 'https://github.com/airbnb/lottie-ios.git', :branch => 'master'
+  pod 'lottie-ios'
 end
